@@ -1,1 +1,1 @@
-Devops journey repo
+Daily hands-on tasks & notes to build production-ready DevOps skills.
